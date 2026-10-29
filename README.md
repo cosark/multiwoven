@@ -166,6 +166,7 @@ Multiwoven can be deployed in a variety of environments, from fully managed clou
 | **Digital Ocean Droplets**        | Coming soon.                                                                             |
 | **Digital Ocean Kubernetes**      | Coming soon.                                                                             |
 | **OpenShift**                     | Coming soon.                                                                             |
+| **RepoCloud**                     | [One-Click Deploy](https://repocloud.io/details/Multiwoven/)                             |
 
 ## Connectors
 
